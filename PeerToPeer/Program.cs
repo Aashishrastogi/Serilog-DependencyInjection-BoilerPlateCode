@@ -63,6 +63,12 @@ app.Run();
  * NOTES [comments cannot be written in json files]
  *
  *
+ *  In the json files all all the config for the serilog can be done ...remember the development environment
+ *  in the launch environment in the launchSetting.json and accordingly make changes in the json files.
  *
+ *  can be also used for storing values which can be used in the code as global values ...demonstrated in the
+ *  TestingLogging.cs in the loop values [upper limit]
+ *
+ * 
  * 
  */
